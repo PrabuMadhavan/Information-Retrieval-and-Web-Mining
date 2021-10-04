@@ -1,3 +1,3 @@
 # Information-Retrieval-and-Web-Mining
 
-practical algorithms of indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations
+Practical algorithms of indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations
